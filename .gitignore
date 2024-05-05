@@ -1,6 +1,17 @@
 .vscode
 node_modules/*
-# Local Netlify folder
+dist
+.idea/
+.vercel
+.cache
+_site/
+**/.DS_Store
 .netlify
+
+netlify/functions/search/data.json
+netlify/functions/search/index.json
+src/site/styles/theme.*.css
+src/site/styles/_theme.*.css
+
 
 
